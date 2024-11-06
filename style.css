@@ -29,7 +29,7 @@ body{
     list-style: none;
 }
 
-#bagian-3 {
+#bagian-3oh {
     display: flex;
     background-color: #d9f3fd;
 }
@@ -43,8 +43,56 @@ body{
     color: rgb(31, 78, 105);
 }
 
-#Hirugaoramen {
+#bagian-3h {
     display: flex;
-    margin-right: 10%;
-    padding-bottom: 10%;
+}
+#hirugaoramen {
+    display: flex;
+    background-color: #d9f3fd;
+    order: 2;
+}
+
+.Hirugaoaramendesc {
+    padding: auto;
+}
+.hirugaoalltext {
+    display: block;
+    width: 100%;
+    margin-left: 0%;
+    background-color: #d9f3fd;
+}
+.hirugaoalltext p {
+    color: rgb(31, 78, 105);
+}
+
+#bagian-3s {
+    display: flex;
+    background-color: #d9f3fd;
+}
+
+.soranoiroalltext {
+    display: block;
+    width: 100%;
+    margin-left: 1%;
+}
+.soranoiroalltext p {
+    color: rgb(31, 78, 105);
+}
+
+.kuupon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+.Akusesu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 87%;
+}
+.Akusesutext {
+    color: #ffffff;
+    text-align: center;
 }
